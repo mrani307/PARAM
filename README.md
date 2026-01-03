@@ -9,7 +9,7 @@
 
  The model is set to use parallel computing in both windows and linux(HPC) environment. 
 
- main.R - to use in linux (HPC) using MPI.
+ main.R - to use in linux (HPC) using MPI ; 
  main_win.R - to use for windows environment. 
 
  More update coming soon ......
